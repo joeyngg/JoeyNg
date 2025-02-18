@@ -6,7 +6,7 @@ export default function Portfolio() {
     <div className="bg-gray-900 text-white min-h-screen flex flex-col items-center">
       {/* Header */}
       <header className="w-full p-6 text-center text-2xl font-bold">
-        Joey Ng
+        Joey Ng's
       </header>
 
       {/* Hero Section */}
